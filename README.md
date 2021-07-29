@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Welsh language support for [statswalesr](https://github.com/jamie-ralph/statswalesr)
-- 🌱 I’m currently learning about language models
+- 🌱 I’m currently learning language models & Apache Airflow
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have a cockapoo and her name is Margie :dog:
 
