@@ -1,7 +1,7 @@
 ### Hello, I'm Jamie 👋
 I am a Programmer Analyst @ Bumble, developing internal tools in R and Python. 
 
-- 🌱 I’m currently learning d3.js
+- 🌱 I’m currently learning R Shiny 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have a cockapoo and her name is Margie :dog:
 
