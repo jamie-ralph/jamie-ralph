@@ -1,7 +1,7 @@
 ### Hello, I'm Jamie 👋
-I am a Programmer Analyst @ Bumble, developing internal tools in R and Python. 
+I am a programmer who likes to develop tools in R and Python. 
 
-- 🌱 I’m currently learning R Shiny 
+- 🌱 I’m currently learning how to write cleaner and more maintenable code. I like to write about it on [my blog](https://jamie-ralph.github.io/).
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have a cockapoo and her name is Margie :dog:
 
