@@ -2,6 +2,7 @@
 I am a programmer who likes to develop tools in R and Python. 
 
 - 🌱 I’m currently learning how to write cleaner and more maintenable code. I like to write about it on [my blog](https://jamie-ralph.github.io/).
+- :bird: My goals for 2022 are to do more open source projects and get better at C++
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have a cockapoo and her name is Margie :dog:
 
